@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cyberhorizon1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyberhorizon1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/guilherme figueira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme figueira" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/alarket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alarket" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/guilherme-figueira-836aa6201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme-figueira-836aa6201" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20637957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20637957" height="30" width="40" /></a>
 <a href="https://kaggle.com/oneiroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="oneiroy" height="30" width="40" /></a>
 <a href="https://instagram.com/cyberhorizon1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyberhorizon1" height="30" width="40" /></a>
 <a href="https://discord.gg/Oneiroy#6078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Oneiroy#6078" height="30" width="40" /></a>
@@ -35,7 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alarket&show_icons=true&locale=en" alt="alarket" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alarket&" alt="alarket" /></p>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alarket)](https://github.com/anuraghazra/github-readme-stats)
-
