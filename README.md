@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Guilherme Figueira
+- 🔭 I’m currently working on personal and freelancer job projects
+- 🌱 I’m currently learning full-stack web development and data science
+- 👯 I’m looking to collaborate on full-stack and data science projects
+- 💬 Ask me about anything
+- 📫 How to reach me: 
+LinkedIn - https://www.linkedin.com/in/guilherme-figueira-836aa6201/
+E-Mail - guifigomes@protonmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a game developer graduate currently focusing on full-stack web development
 <!--
 **Alarket/Alarket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
