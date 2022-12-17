@@ -13,6 +13,9 @@
 
 - 📫 How to reach me **guifigomes@protonmail.com**
 
+![video-capa](https://user-images.githubusercontent.com/79333503/208255591-a25b67d1-1d13-44f1-971e-04858ec9b32b.gif)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alarket)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
