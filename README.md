@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on [freelancer jobs](https://carlos-cypriano.github.io/cyber-horizon/)
 
-- 🌱 I’m currently learning **full-stack web development**
-
-- 💬 Ask me about **html, css, javascript and python**
+- 🌱 I’m currently learning **full-stack web development and data science**
 
 - 📫 How to reach me **guifigomes@protonmail.com**
 
