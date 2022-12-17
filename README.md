@@ -8,6 +8,8 @@ LinkedIn - https://www.linkedin.com/in/guilherme-figueira-836aa6201/
 E-Mail - guifigomes@protonmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a game developer graduate currently focusing on full-stack web development
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alarket)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Alarket/Alarket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
