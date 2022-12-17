@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **full-stack web development**
 
-- 👨‍💻 All of my projects are available [here](here)
-
 - 💬 Ask me about **html, css, javascript and python**
 
 - 📫 How to reach me **guifigomes@protonmail.com**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alarket)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +24,6 @@
 <a href="https://stackoverflow.com/users/20637957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20637957" height="30" width="40" /></a>
 <a href="https://kaggle.com/oneiroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="oneiroy" height="30" width="40" /></a>
 <a href="https://instagram.com/cyberhorizon1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyberhorizon1" height="30" width="40" /></a>
-<a href="https://discord.gg/Oneiroy#6078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Oneiroy#6078" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
