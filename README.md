@@ -1,10 +1,4 @@
 ![video-capa](https://user-images.githubusercontent.com/79333503/208255591-a25b67d1-1d13-44f1-971e-04858ec9b32b.gif)
-<h1 align="center">Hi 👋, I'm Guilherme Figueira</h1>
-<h3 align="center">A game development graduate and computer science student with an interest in full-stack web development and data-related fields</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alarket&label=Profile%20views&color=0e75b6&style=flat" alt="alarket" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alarket" alt="alarket" /></a> </p>
 
 <h1 align="center">Hi 👋, I'm Guilherme Figueira</h1>
 <h3 align="center">A game development graduate, computer science and data science PhD student with an interest in full-stack web development and data-related fields</h3>
