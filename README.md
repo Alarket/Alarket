@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development and Data Science**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Web Development and Data Science Projects**
 
-- 👨‍💻 All of my projects are available here
+- 👨‍💻 All of my projects are available **here**
 
-- 📫 How to reach me **guifigomes@protonmail.com**
+- 📫 Reach me at **guifigomes@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
