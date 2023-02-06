@@ -6,14 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alarket" alt="alarket" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/cyberhorizon1" target="blank"><img src="https://img.shields.io/twitter/follow/cyberhorizon1?logo=twitter&style=for-the-badge" alt="cyberhorizon1" /></a> </p>
-
 <h1 align="center">Hi 👋, I'm Guilherme Figueira</h1>
 <h3 align="center">A game development graduate, computer science and data science PhD student with an interest in full-stack web development and data-related fields</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alarket&label=Profile%20views&color=0e75b6&style=flat" alt="alarket" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alarket" alt="alarket" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/cyberhorizon1" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/cyberhorizon1?logo=twitter&style=for-the-badge" alt="https://twitter.com/cyberhorizon1" /></a> </p>
 
