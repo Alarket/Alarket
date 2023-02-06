@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **Cyber Horizon**
 
-- 🌱 I’m currently learning **Full-Stack Web Development and Data Science**
-
-- 👯 I’m looking to collaborate on **Web Development and Data Science Projects**
+- 👯 I’m looking to collaborate on **Full-Stack Web Development and Data Science Projects**
 
 - 👨‍💻 All of my projects are available **here**
 
