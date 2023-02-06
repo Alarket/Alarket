@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Alarket](https://github.com/Alarket)
+- 👨‍💻 All of my projects are available here
 
 - 📫 How to reach me **guifigomes@protonmail.com**
 
